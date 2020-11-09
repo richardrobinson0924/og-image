@@ -1,6 +1,6 @@
 .github
 node_modules
 api/dist
-public/dist
+public/empty
 CONTRIBUTING.md
 README.md
