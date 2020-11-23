@@ -20,6 +20,10 @@ function makeCSS() {
         font-weight: normal;
     }
     
+    body {
+        background: #95AAF6;
+    }
+    
     .background {
         padding-top:135px;
         height:495px;

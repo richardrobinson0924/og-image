@@ -11,7 +11,6 @@
         "noImplicitReturns": true,
         "noEmitOnError": true,
         "noUnusedLocals": true,
-        "noUnusedParameters": true,
         "removeComments": true,
         "preserveConstEnums": true,
         "esModuleInterop": true
